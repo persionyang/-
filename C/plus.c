@@ -4,7 +4,7 @@ int main()
 int a;
 int b;
 
-printf("请输入两个数字");
+printf("璇疯緭鍏ヤ袱涓暣鏁帮細");
 scanf("%d %d", &a, &b);566
 printf("%d + %d =   %d\n", a, b, a + b);
 
