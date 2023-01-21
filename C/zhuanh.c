@@ -5,7 +5,7 @@ int main()
  
  int cm;
  
- scanf("ÇëÊäÈëÉí¸ß%d¡£", &cm);
+ scanf("è¯·è¾“å…¥èº«é«˜%dã€‚", &cm);
  
  int foot= cm/100.0/0.3048;
  
